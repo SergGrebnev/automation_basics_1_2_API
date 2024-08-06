@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pa4p2925b5025ap8?svg=true)](https://ci.appveyor.com/project/SergGrebnev/automation-basics-1-2-api)
+
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
